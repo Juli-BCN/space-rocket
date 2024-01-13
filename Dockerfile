@@ -1,5 +1,5 @@
 # Imagen y Etiquetas
-FROM httpd:2.4
+FROM httpd:latest
 LABEL maintainer="JuliBCN <julibcn@gmail.com>"
 
 # Definir variables de entorno
